@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Ashok</h1>
       <p>Sukanya</p>
-      talaari
+      talaariSukanya
     </div>
   );
 }
